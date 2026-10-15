@@ -123,4 +123,4 @@ Packages live under `skills/`. Each one is an [agentskills.io](https://agentskil
 
 ## License
 
-[MIT](LICENSE). Copyright (c) 2026 Kris Lemieux and Red Brick Media.
+[MIT](LICENSE). Copyright (c) 2026 Kris Lemieux
